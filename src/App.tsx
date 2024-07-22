@@ -11,7 +11,7 @@ function App() {
           days old they are.
         </p>
       </header>
-      <main>
+      <main className="main-container">
         <Calculator />
       </main>
     </>
